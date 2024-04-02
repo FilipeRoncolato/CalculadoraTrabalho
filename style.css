@@ -88,3 +88,7 @@ body::after{
 
 }
 
+.container .calculadora span:active{
+    background: #14ff47;
+    color: #102f00;
+}
